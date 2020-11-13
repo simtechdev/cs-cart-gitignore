@@ -20,16 +20,9 @@ For more information about how `.gitignore` files work, and how to use them, the
 [git]: https://git-scm.com/
 [gitmagic]: http://www-cs-students.stanford.edu/~blynn/gitmagic/
 
-## Contributing workflow
+## Contributing
 
-Here’s how we suggest you go about proposing a change to this project:
-
-1. Fork this project to your account.
-2. Create a branch for the change you intend to make.
-3. Make your changes to your fork.
-4. Send a pull request from your fork’s branch to our `main` branch.
-
-Using the web-based interface to make changes is fine too, and will help you by automatically forking the project and prompting to send a pull request too.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
